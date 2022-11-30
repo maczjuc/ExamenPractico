@@ -8,7 +8,7 @@ Clave: 13<br>
 Python<br>
 GitHub.com<br>
 pymchart<br>
-wanpserver<br>
+wampserver<br>
 
 ## Estructura <br>
 If<br>
