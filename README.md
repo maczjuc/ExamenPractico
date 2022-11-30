@@ -7,6 +7,8 @@ Clave: 13<br>
 ## Tecnologia<br>
 Python<br>
 GitHub.com<br>
+pymchart<br>
+wanpserver<br>
 
 ## Estructura <br>
 If<br>
