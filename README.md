@@ -6,7 +6,7 @@ Clave: 13<br>
 
 ## Tecnologia<br>
 Python<br>
-GitGub.com<br>
+GitHub.com<br>
 
 ## Estructura <br>
 If<br>
